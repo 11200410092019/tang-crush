@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Cục cưng à :3 :3 ',
-    introDesc: `Vào một ngày nắng hạ,
+    introDesc: ` Vào một ngày nắng hạ,
     Trong tim a có em.
     Muốn nói với em rằng
     Yêu em hơn 3000 <3 :3
